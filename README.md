@@ -35,7 +35,7 @@ Source: https://datahack.analyticsvidhya.com/contest/practice-problem-big-mart-s
 
 #### Item Sales vs Item Type Comparision 
 ![image](https://user-images.githubusercontent.com/126980733/231937259-aebd3262-e032-470c-b648-8e5cdc4ddb4f.png)
-
+Quantifying Product Sales by Item Types: Based on the graph one can determine that "Starchy Foods" is the top product seller.
 
 
 ### Model
